@@ -1,6 +1,14 @@
 # ChattingWeb
 this is an Online chat Web Application to interact with your friends and relatives developed using mern stack
 
+### To download Frontend Reactjs Dependencies
+
+use command " npm install --force "
+
+### To download Backend Nodejs Dependencies
+
+use command " npm install "
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
